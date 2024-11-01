@@ -1,10 +1,10 @@
-# Project Website
+# Project Website : To Do List
 
 ## How to Run the Website
 
 1. **Clone this repository**:
     ```bash
-    git clone <https://github.com/Letsgobois24/react-todo-list.git>
+    git clone https://github.com/Letsgobois24/react-todo-list.git
     cd react-todo-list.git
     ```
 
